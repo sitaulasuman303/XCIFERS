@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "551253256633",
+    "firebase_url": "https://xcifers-72ed7-default-rtdb.firebaseio.com",
+    "project_id": "xcifers-72ed7",
+    "storage_bucket": "xcifers-72ed7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:551253256633:android:4d11d9d1754af32b366e68",
+        "android_client_info": {
+          "package_name": "com.example.xcifers"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAI_FCWp61FuoG2DLW63byXJ_3NcahzRu0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
