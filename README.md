@@ -1,3 +1,6 @@
 <h1>XCIFERS</h1>
 <p> This is my native android project while i developed as my college project. This project uses XML for front end, Java for back end, and Firebase as database</p>
-<img src="Picture1.png" alt="HomePage">
+<h2>Home Page</h2>
+<img src="Picture1.png" alt="Home Page">
+<h2>LoginPage</h2>
+<img src="Picture2.png" alt="Login Page">
