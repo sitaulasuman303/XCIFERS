@@ -4,3 +4,7 @@
 <img src="Picture1.png" alt="Home Page">
 <h2>LoginPage</h2>
 <img src="Picture2.png" alt="Login Page">
+<h2>Insert Details</h2>
+<img src="Picture3.png" alt="Insert Details">
+<h2>Product Details</h2>
+<img src="Picture4.png" alt="Product Detaila">
